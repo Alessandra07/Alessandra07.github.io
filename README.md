@@ -1,6 +1,6 @@
 # Projeto Barbearia Alura
 
-Status do Projeto: ~EM CONSTRUÇÃO~
+Status do Projeto: EM CONSTRUÇÃO
 
 Este projeto foi desenvolvido através da orientação do professor Pedro Martins pela plataforma de cursos Alura
 
